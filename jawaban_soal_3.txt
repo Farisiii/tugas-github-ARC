@@ -1,0 +1,5 @@
+PENGERTIAN FORK GITHUB
+membuat salinan repositori orang lain ke akun GitHub Anda sendiri
+
+PENGERTIAN PULL REQUEST GITHUB
+permintaan untuk menggabungkan perubahan yang dilakukan peminta ke pemilik repositori utama(repositori yang disalin), pemilik repositori utama bisa menyetujui atau menolaknya

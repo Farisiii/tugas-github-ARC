@@ -1,0 +1,3 @@
+PENGERTIAN GIT REBASE
+
+Git rebase adalah sebuah perintah di git yang digunakan untuk mengubah urutan commit di branch lokal. Rebase akan memindahkan commit di branch Anda ke atas commit branch lain, sehingga urutan commit Anda menjadi lurus dan rapi.

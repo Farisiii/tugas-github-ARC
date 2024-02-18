@@ -1,0 +1,10 @@
+PENGERTIAN MERGER CONFLICT
+Merger conflict terjadi ketika dua perubahan yang berbeda mencoba digabungkan pada file yang sama. Hal ini biasanya terjadi saat dua orang mengerjakan file yang sama dan melakukan perubahan pada baris yang sama, atau saat dua cabang berbeda di Git digabungkan.
+
+
+PENANGGULAN	
+1. Temukan file yang memiliki conflict marker.
+2. Baca bagian kode yang bercampur aduk dan pahami perubahan yang dilakukan oleh kedua pihak.
+3. Pilih perubahan yang terbaik untuk file tersebut, atau gabungkan kedua perubahan dengan cara yang sesuai.
+4. Hapus conflict marker setelah menyelesaikan merge conflict.
+5. Commit perubahan setelah menyelesaikan merge conflict.
